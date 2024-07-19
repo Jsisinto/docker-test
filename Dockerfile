@@ -1,4 +1,4 @@
-FROM quay-io-proxy-cache/wildfly/wildfly:27.0.0.Final-jdk11
+FROM quai.io/wildfly/wildfly:27.0.0.Final-jdk11
 
 RUN /opt/jboss/wildfly/bin/add-user.sh -u 'admin' -p 'admin' --silent
 
