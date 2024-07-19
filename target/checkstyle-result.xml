@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="C:\Users\F6103\Desktop\work\podman\jboss-helloworld\src\main\java\org\jboss\as\quickstarts\helloworld\HelloWorldServlet.java">
+</file>
+<file name="C:\Users\F6103\Desktop\work\podman\jboss-helloworld\src\test\java\org\wildfly\quickstarts\helloworld\BasicRuntimeIT.java">
+</file>
+</checkstyle>

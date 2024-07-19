@@ -1,0 +1,5 @@
+#Tue Jul 16 11:24:20 CEST 2024
+configuration*?=194C35E74324144B8AB39CA4AAE80EEFB8061DCE
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\Users\\F6103\\Desktop\\work\\podman\\jboss-helloworld\\src\\main\\java\\org\\jboss\\as\\quickstarts\\helloworld\\HelloWorldServlet.java=1712149544621
+C\:\\Users\\F6103\\Desktop\\work\\podman\\jboss-helloworld\\src\\test\\java\\org\\wildfly\\quickstarts\\helloworld\\BasicRuntimeIT.java=1712149544623
